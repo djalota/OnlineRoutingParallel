@@ -10,3 +10,6 @@ All data sources are either .xlsx or .csv files and were obtained from several s
 3. Statistical Atlas: Household income levels in the Bay Area, which are used to calibrate the values of time of users
 
 The travel time, arrival rate, and household income inforamtion from these data sources is compiled into the file "Aggregated_Data_Experiments.xlsx" in the folder "CompiledData".
+
+## Code
+The code used for the project is available in the folder named "Code". In particular, the code includes the implementation of the the greedy and scenario approach based algorithms proposed in the work as well as two benchmark approaches to test the efficacy of the algorithms developed in this work.
